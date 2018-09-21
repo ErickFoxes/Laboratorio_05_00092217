@@ -1,0 +1,4 @@
+let pali = function palindromo(palabra){
+let palabra_Palindroma = '';
+
+}
